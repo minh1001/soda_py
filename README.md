@@ -5,6 +5,8 @@
 # Presentation Time Limit: 10 minutes
 This is meant to be a technical presentation of a library, app, API, etc. of our choice. The audience will be fellow students and faculty.
 
-# Open Data, Socrata API (SODA) and SodaPy
+# Objective:
+Technical overview of Open Data, Socrata API (SODA), and a demo of SodaPy which is just a Python client to access SODA.
 
-Quick overview of Open Data, Socrata API (SODA), and a demo of SodaPy which is just a Python client to access SODA.
+### Code:
+All coding was done in a Jupyter Notebook via Google Colab.
