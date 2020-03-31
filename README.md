@@ -2,7 +2,7 @@
   <img width="780" height="373" src="https://github.com/minh1001/soda_py/blob/master/soda_py.PNG">
 </p>
 
-# Presentation Time Limit: 10 minutes
+### Presentation Time Limit: 10 minutes
 This is meant to be a technical presentation of a library, app, API, etc. of our choice. The audience will be fellow students and faculty.
 
 ### Objective:
